@@ -1,0 +1,63 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'MedievalSharp', cursive;
+    background-color:rgb(16, 16, 16);
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+    font-size: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(36, 36, 36);
+}
+
+a{
+    color: wheat;
+  }
+
+nav>ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    padding: 1.5rem;
+    font-size: 1.5rem;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.image-grid {
+    padding: 0;
+    --min: 20rem;
+    --gap: 1rem;
+    display: grid;
+    grid-gap: var(--gap);
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--min)), 1fr));
+    display: grid;
+    place-content: center;
+}
+
+main {
+    margin: 1rem;
+    color:wheat;
+    font-weight:bolder;
+}
+
+.button {
+    float: left;
+}
