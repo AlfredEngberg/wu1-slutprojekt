@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/main.js"></script>
     <title>Mina Bilder</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -14,21 +15,28 @@
 </head>
 <body>
 
-    <nav>
-        <ul>
-            <li><a href="index.html"><button class="button">Hem</button></a></li>
-            <li><a href="nighthaunt.html"><button class="button">Nighthaunt</button></a></li>
-            <li><a href="chaosspacemarines.html"><button class="button">Chaos Space Marines</button></a></li>
-            <li><a href="orks.html"><button class="button">Orks</button></a></li>
-            <li><a href="spacemarine.html"><button class="button">Space Marines</button></a></li>
-        </ul>
+    <nav class="navbar">
+        <a class="brand" href="index.html">Brand</a>
+        <button class="navbar__toggle">
+            <img src="assets/images/burgermenu.svg" alt="menu">
+            </button>
+        <div class="navbar__collapse">
+            <ul class="nav">
+                
+            <li class="nav-item"><a href="index.html" class="button">Hem</a></li>
+            <li class="nav-item"><a href="nighthaunt.html" class="button">Nighthaunt</a></li>
+            <li class="nav-item"><a href="chaosspacemarines.html" class="button">Chaos Space Marines</a></li>
+            <li class="nav-item"><a href="orks.html" class="button">Orks</a></li>
+            <li class="nav-item"><a href="spacemarine.html" class="button">Space Marines</a></li>
+            </ul>
+        </div>
     </nav>
 
     <main class="container">
         <p>Detta är en sida för mig att ladda upp bilder på mina miniatyrer.</p>
         <ul class="image-grid">
             <li>
-                <iframe width="750" height="400" src="https://www.youtube.com/embed/9XBq0Yv3bWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            
+               
             </li>
       
         </ul>
