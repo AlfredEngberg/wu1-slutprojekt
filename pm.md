@@ -6,8 +6,6 @@ Alfred Engberg 31/05/2023
 
 Syftet med detta projekt är att förbättra min sida om bilder. Jag planerade först. Sen så skrev jag html och css varje onsdag. Jag skrev också log bok eftere varje onsdag.
 
-Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
-
 ## Bakgrund
 
 Jag har skapat en sida med syftet att visa upp bilder jag har tagit på mina modeller. Jag använde mig av html, css och javascript för att åtska komma detta. 

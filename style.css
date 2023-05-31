@@ -97,10 +97,12 @@ main {
     background-color: var(--color-dark);
     font-size: 1.25rem;
 }
+
 .navbar__collapse-show {
     display: block !important;
     width: 100%;
 }
+
 .navbar__toggle {
     border: none;
     background-color: transparent;
@@ -114,6 +116,7 @@ main {
         display: none;
     }
 }
+
 @media (min-width: 768px) {
     .navbar__toggle {
         display: none;
