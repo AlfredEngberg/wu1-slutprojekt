@@ -13,8 +13,10 @@ Jag började på innehållet på sidan
 Jag upptäckte att den inte fungerar på mobil så nästa gång ska jag fixa det och göra färdigt innehållet.
 
 ###Log3 24/05-2023
-Jag fixade nav baren och lade till en hamburger meny
-Jag skrev innehåll på warboss in mega armour
+Jag fixade nav baren och lade till en hamburger meny, som dyker upp när man är på mobil.
+Jag skrev lite innehåll på warboss in mega armour
+
+Men hamburger menyn gjorde också så att det ser jätte dåligt på datorn. Det lägger dom över varandra istället för bredvid varandra
 
 Jag hade problem med menyn att visa rätt storlek av hamburgar menyn. men jag googlade och hittade en lösning till problemet genom att sätta svgn till width="30" height="30".
 
