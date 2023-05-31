@@ -26,7 +26,4 @@ Det som också har gått ganska dåligt är navigeringen. Det fungerade bra på 
 
 ## Sammanfattning
 
-Jag är nöjd överlag med sidan, även om det är mycket som behövs för att den ska vara "färdig". Sidan fungerar som jag ville i början och det klarar wave.
-
-Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
-Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+Jag är nöjd överlag med sidan, även om det är mycket som behövs för att den ska vara "färdig". Sidan fungerar som jag ville i början och det klarar wave. Det största jag har lärt mig är att det är värt att lägga ner tid på att göra innehållet, det är inte bara funktionerna på sidan som spelar roll utan också innehållet. Det jag vill ändra är att skriva text på sidan och fixa menyn.
